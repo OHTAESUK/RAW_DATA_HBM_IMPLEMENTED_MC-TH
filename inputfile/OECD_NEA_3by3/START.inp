@@ -1,0 +1,23 @@
+command = './START.out'
+grid = 51 51 20
+       -32.13 -32.13 0 32.13 32.13 365.76
+
+channel_mesh = uniform
+margin = 0.0 0.0 0.0
+
+fuel = 0.003951
+clad = 0.000573
+gap = 0.000059
+
+temperature_inlet = 560.0
+pressure_inlet = 15.45E6
+rho_initial = 711.7 
+
+mass_flux = 739.09
+
+maxiter = 5
+
+reflective
+1
+1 1
+1
