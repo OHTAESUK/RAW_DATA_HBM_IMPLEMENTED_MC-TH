@@ -1,0 +1,759 @@
+CARD D : CE_MAT_CARD
+
+	MAT_01 : pin A (1.71%)
+		mat_name    	= fuel_A1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  3.99337E+20
+ 						  92238.80c  2.26638E+22
+  						   8016.80c  4.61263E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature		= 563.75
+	END_MAT_01 
+
+	MAT_01 : pin A (1.71%)
+		mat_name    	= fuel_A2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  3.99337E+20
+ 						  92238.80c  2.26638E+22
+  						   8016.80c  4.61263E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature		= 563.75
+	END_MAT_01 
+
+	MAT_01 : pin A (1.71%)
+		mat_name    	= fuel_A3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  3.99337E+20
+ 						  92238.80c  2.26638E+22
+  						   8016.80c  4.61263E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature		= 563.75
+	END_MAT_01 
+
+	MAT_01 : pin A (1.71%)
+		mat_name    	= fuel_A4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  3.99337E+20
+ 						  92238.80c  2.26638E+22
+  						   8016.80c  4.61263E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature		= 563.75
+	END_MAT_01 
+
+	MAT_02 : pin B (3.14%)
+		mat_name    	= fuel_B1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature		= 563.75
+	END_MAT_02 
+
+	MAT_02 : pin B (3.14%)
+		mat_name    	= fuel_B2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature		= 563.75
+	END_MAT_02 
+
+	MAT_02 : pin B (3.14%)
+		mat_name    	= fuel_B3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature		= 563.75
+	END_MAT_02 
+
+	MAT_02 : pin B (3.14%)
+		mat_name    	= fuel_B4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature		= 563.75
+	END_MAT_02 
+
+	MAT_03 : pin C (3.64%)
+		mat_name    	= fuel_C1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  8.50027E+20
+ 						  92238.80c  2.22181E+22
+  						   8016.80c  4.61363E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature		= 563.75
+	END_MAT_03 
+
+	MAT_03 : pin C (3.64%)
+		mat_name    	= fuel_C2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  8.50027E+20
+ 						  92238.80c  2.22181E+22
+  						   8016.80c  4.61363E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature		= 563.75
+	END_MAT_03 
+
+	MAT_03 : pin C (3.64%)
+		mat_name    	= fuel_C3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  8.50027E+20
+ 						  92238.80c  2.22181E+22
+  						   8016.80c  4.61363E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature		= 563.75
+	END_MAT_03 
+
+	MAT_03 : pin C (3.64%)
+		mat_name    	= fuel_C4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  8.50027E+20
+ 						  92238.80c  2.22181E+22
+  						   8016.80c  4.61363E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature		= 563.75
+	END_MAT_03 
+
+	MAT_04 : pin B zone (2.64%)
+		mat_name    	= fuel_zB1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  6.16512E+20
+ 						  92238.80c  2.24490E+22
+  						   8016.80c  4.61311E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature  	= 563.75
+	END_MAT_04 
+
+	MAT_04 : pin B zone (2.64%)
+		mat_name    	= fuel_zB2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  6.16512E+20
+ 						  92238.80c  2.24490E+22
+  						   8016.80c  4.61311E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature  	= 563.75
+	END_MAT_04 
+
+	MAT_04 : pin B zone (2.64%)
+		mat_name    	= fuel_zB3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  6.16512E+20
+ 						  92238.80c  2.24490E+22
+  						   8016.80c  4.61311E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature  	= 563.75
+	END_MAT_04 
+
+	MAT_04 : pin B zone (2.64%)
+		mat_name    	= fuel_zB4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  6.16512E+20
+ 						  92238.80c  2.24490E+22
+  						   8016.80c  4.61311E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature  	= 563.75
+	END_MAT_04 
+
+	MAT_05 : pin C zone (3.14%)
+		mat_name    	= fuel_zC1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature		= 563.75
+	END_MAT_05 
+
+	MAT_05 : pin C zone (3.14%)
+		mat_name    	= fuel_zC2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature		= 563.75
+	END_MAT_05 
+
+	MAT_05 : pin C zone (3.14%)
+		mat_name    	= fuel_zC3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature		= 563.75
+	END_MAT_05 
+
+	MAT_05 : pin C zone (3.14%)
+		mat_name    	= fuel_zC4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  7.33270E+20
+ 						  92238.80c  2.23336E+22
+  						   8016.80c  4.61337E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature		= 563.75
+	END_MAT_05 
+
+	MAT_06 : pin cutback (2.0%)
+		mat_name    	= fuel_cut1
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  4.67059E+20
+ 						  92238.80c  2.25968E+22
+  						   8016.80c  4.61278E+22
+		doppler         = T
+		mat_type		= fue1
+		temperature		= 563.75
+	END_MAT_06 
+	
+	MAT_06 : pin cutback (2.0%)
+		mat_name    	= fuel_cut2
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  4.67059E+20
+ 						  92238.80c  2.25968E+22
+  						   8016.80c  4.61278E+22
+		doppler         = T
+		mat_type		= fue2
+		temperature		= 563.75
+	END_MAT_06 
+
+	MAT_06 : pin cutback (2.0%)
+		mat_name    	= fuel_cut3
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  4.67059E+20
+ 						  92238.80c  2.25968E+22
+  						   8016.80c  4.61278E+22
+		doppler         = T
+		mat_type		= fue3
+		temperature		= 563.75
+	END_MAT_06 
+
+	MAT_06 : pin cutback (2.0%)
+		mat_name    	= fuel_cut4
+		density_gpcc	= -10.4
+		fissionable		= T
+		n_iso			= 3
+		isotopes 		= 92235.80c  4.67059E+20
+ 						  92238.80c  2.25968E+22
+  						   8016.80c  4.61278E+22
+		doppler         = T
+		mat_type		= fue4
+		temperature		= 563.75
+	END_MAT_06 
+
+	MAT_07 : bottom moderator
+		mat_name    	= mod_bot
+		density_gpcc	= -0.66114
+		n_iso			= 2
+		isotopes 		=  1001.80c  4.42450E+22
+ 						   8016.80c  2.21225E+22
+		doppler         = T
+		temperature		= 563.75
+	END_MAT_07 
+
+	MAT_08 : top moderator
+		mat_name    	= mod_top
+		density_gpcc	= -0.66114
+		n_iso			= 2
+		isotopes 		=  1001.80c  4.42450E+22
+ 						   8016.80c  2.21225E+22
+		doppler         = T
+		temperature		= 563.75
+	END_MAT_08
+
+	MAT_09 : structure
+		mat_name    	= ss304
+		density_gpcc	= -7.8
+		n_iso			= 15
+		isotopes 		= 26054.80c  3.30956E+21
+ 						  26056.80c  5.19529E+22
+ 						  26057.80c  1.19982E+21
+ 						  26058.80c  1.59674E+20
+ 						  28058.80c  5.10761E+21
+ 						  28060.80c  1.96744E+21
+ 						  28061.80c  8.55233E+19
+ 						  28062.80c  2.72686E+20
+ 						  28064.80c  6.94450E+19
+ 						  24050.80c  7.36173E+20
+ 						  24052.80c  1.41964E+22
+ 						  24053.80c  1.60975E+21
+ 						  24054.80c  4.00702E+20
+ 						  25055.80c  1.68790E+21
+						  27059.80c  1.08010E+20
+		doppler         = T
+		temperature		= 563.75
+	END_MAT_09
+
+	MAT_10 : cladding
+		mat_name    	= can
+		density_gpcc	= -6.5
+		n_iso			= 24
+		isotopes 		= 40090.80c	2.17594E+22
+						  40091.80c	4.74520E+21
+						  40092.80c	7.25313E+21
+						  40094.80c	7.35040E+21
+						  40096.80c	1.18418E+21
+						  50112.80c	4.81393E+18
+						  50114.80c	3.22583E+18
+						  50115.80c	1.68736E+18
+						  50116.80c	7.21593E+19
+						  50117.80c	3.81144E+19
+						  50118.80c	1.20199E+20
+						  50119.80c	4.25809E+19
+						  50120.80c	1.61738E+20
+						  50122.80c	2.29778E+19
+						  50124.80c	2.87347E+19
+						  26054.80c	4.93309E+18
+						  26056.80c	7.74389E+19
+						  26057.80c	1.78840E+18
+						  26058.80c	2.38003E+17
+						  24050.80c	3.28205E+18
+						  24052.80c	6.32101E+19
+						  24053.80c	7.17670E+18
+						  24054.80c	1.78643E+18
+						  7014.80c	1.40240E+20
+		doppler         = T
+		mat_type		= clad
+		temperature		= 563.75
+	END_MAT_10
+
+	MAT_11 : gap
+		mat_name    	= gap
+		density_gpcc	= -0.00178
+		n_iso			= 1
+		isotopes 		= 8016.80c   3.76497E+19
+		doppler         = T
+		mat_type		= gap
+		temperature		= 563.75
+	END_MAT_11
+
+	MAT_12 : top reflector 1
+		mat_name    	= top_ref1
+		density_gpcc	= 7.85419E-02
+		n_iso			= 39
+		isotopes		=  	 1001.80c  2.72390E-02
+							 5010.80c  4.83556E-06
+							 5011.80c  1.94637E-05
+							 8016.80c  3.34319E-02
+							13027.80c  1.31840E-02
+							24050.80c  3.55979E-07
+							24052.80c  6.86470E-06
+							24053.80c  7.78402E-07
+							24054.80c  1.93761E-07
+							26054.80c  5.97268E-07
+							26056.80c  9.44507E-06
+							26057.80c  2.26550E-07
+							26058.80c  2.88336E-08
+							28058.80c  2.71757E-06
+							28060.80c  1.04680E-06
+							28061.80c  4.55076E-08
+							28062.80c  1.45066E-07
+							28064.80c  3.69650E-08
+							40090.80c  2.36057E-03
+							40091.80c  5.14783E-04
+							40092.80c  7.86856E-04
+							40094.80c  7.97408E-04
+							40096.80c  1.28466E-04
+							50112.80c  5.04729E-07
+							50114.80c  3.43424E-07
+							50115.80c  1.76915E-07
+							50116.80c  7.56572E-06
+							50117.80c  3.99620E-06
+							50118.80c  1.26026E-05
+							50119.80c  4.46971E-06
+							50120.80c  1.69526E-05
+							50122.80c  2.40917E-06
+							50124.80c  3.01276E-06
+							72174.80c  3.81878E-10
+							72176.80c  1.25542E-08
+							72177.80c  4.43933E-08
+							72178.80c  6.51101E-08
+							72179.80c  3.25073E-08
+							72180.80c  8.37267E-08
+		doppler         = F
+	END_MAT_12
+
+	MAT_13 : top reflector 2
+		mat_name    	= top_ref2
+		density_gpcc	= 5.18032E-02
+		n_iso			= 50
+		isotopes		=  	 1001.80c  2.54917E-02
+							 2004.80c  2.18000E-21
+							 5010.80c  1.16263E-04
+							 5011.80c  4.67973E-04
+							 6000.80c  1.40374E-04
+							 8016.80c  1.27800E-02
+							14028.80c  1.61963E-05
+							14029.80c  8.20086E-07
+							14030.80c  5.44382E-07
+							22046.80c  8.50050E-07
+							22047.80c  7.66591E-07
+							22048.80c  7.59584E-06
+							22049.80c  5.57427E-07
+							22050.80c  5.33729E-07
+							24050.80c  7.20291E-05
+							24052.80c  1.38901E-03
+							24053.80c  1.57502E-04
+							24054.80c  3.92057E-05
+							25055.80c  1.58663E-04
+							26054.80c  3.13130E-04
+							26056.80c  4.91570E-03
+							26057.80c  1.13554E-04
+							26058.80c  1.51074E-05
+							27059.80c  1.01529E-05
+							28058.80c  6.49872E-04
+							28060.80c  2.50329E-04
+							28061.80c  1.08819E-05
+							28062.80c  3.46942E-05
+							28064.80c  8.83691E-06
+							40090.80c  2.36057E-03
+							40091.80c  5.14783E-04
+							40092.80c  7.86856E-04
+							40094.80c  7.97408E-04
+							40096.80c  1.28466E-04
+							50112.80c  5.04729E-07
+							50114.80c  3.43424E-07
+							50115.80c  1.76915E-07
+							50116.80c  7.56572E-06
+							50117.80c  3.99620E-06
+							50118.80c  1.26026E-05
+							50119.80c  4.46971E-06
+							50120.80c  1.69526E-05
+							50122.80c  2.40917E-06
+							50124.80c  3.01276E-06
+							72174.80c  3.81878E-10
+							72176.80c  1.25542E-08
+							72177.80c  4.43933E-08
+							72178.80c  6.51101E-08
+							72179.80c  3.25073E-08
+							72180.80c  8.37267E-08
+		doppler         = F
+	END_MAT_13
+
+	MAT_14 : top reflector 3
+		mat_name    	= top_ref3
+		density_gpcc	= 6.90909E-02
+		n_iso			= 50
+		isotopes		=  	 1001.80c  3.35111E-02
+							 2004.80c  2.20000E-22
+							 5010.80c  3.89049E-04
+							 5011.80c  1.56597E-03
+							 6000.80c  4.81282E-04
+							 8016.80c  1.68004E-02
+							14028.80c  1.01227E-04
+							14029.80c  5.12554E-06
+							14030.80c  3.40239E-06
+							22046.80c  5.31281E-06
+							22047.80c  4.79119E-06
+							22048.80c  4.74740E-05
+							22049.80c  3.48392E-06
+							22050.80c  3.33580E-06
+							24050.80c  1.32579E-04
+							24052.80c  2.55666E-03
+							24053.80c  2.89904E-04
+							24054.80c  7.21634E-05
+							25055.80c  2.68376E-04
+							26054.80c  5.35306E-04
+							26056.80c  8.40419E-03
+							26057.80c  1.94218E-04
+							26058.80c  2.58268E-05
+							27059.80c  1.71736E-05
+							28058.80c  1.85666E-03
+							28060.80c  7.15180E-04
+							28061.80c  3.10900E-05
+							28062.80c  9.91159E-05
+							28064.80c  2.52500E-05
+							40090.80c  4.80856E-04
+							40091.80c  1.04863E-04
+							40092.80c  1.60285E-04
+							40094.80c  1.62435E-04
+							40096.80c  2.61690E-05
+							50112.80c  1.02815E-07
+							50114.80c  6.99566E-08
+							50115.80c  3.60383E-08
+							50116.80c  1.54117E-06
+							50117.80c  8.14041E-07
+							50118.80c  2.56720E-06
+							50119.80c  9.10496E-07
+							50120.80c  3.45331E-06
+							50122.80c  4.90756E-07
+							50124.80c  6.13711E-07
+							72174.80c  7.77899E-11
+							72176.80c  2.55734E-09
+							72177.80c  9.04307E-09
+							72178.80c  1.32632E-08
+							72179.80c  6.62186E-09
+							72180.80c  1.70554E-08
+		doppler         = F
+	END_MAT_14
+
+	MAT_15 : bottom reflector 1
+		mat_name    	= bot_ref1
+		density_gpcc	= 7.13689E-02
+		n_iso			= 47
+		isotopes		=  	 1001.80c  3.43784E-02
+							 5010.80c  6.10297E-06
+							 5011.80c  2.45652E-05
+							 8016.80c  2.25970E-02
+							13027.80c  3.57453E-03
+							14028.80c  6.47850E-05
+							14029.80c  3.28034E-06
+							14030.80c  2.17753E-06
+							22046.80c  3.40020E-06
+							22047.80c  3.06636E-06
+							22048.80c  3.03834E-05
+							22049.80c  2.22971E-06
+							22050.80c  2.13491E-06
+							24050.80c  1.06066E-05
+							24052.80c  2.04537E-04
+							24053.80c  2.31929E-05
+							24054.80c  5.77320E-06
+							26054.80c  6.93690E-06
+							26056.80c  1.09699E-04
+							26057.80c  2.63124E-06
+							26058.80c  3.34885E-07
+							28058.80c  6.73618E-04
+							28060.80c  2.59475E-04
+							28061.80c  1.12802E-05
+							28062.80c  3.59582E-05
+							28064.80c  9.16272E-06
+							40090.80c  4.74299E-03
+							40091.80c  1.03433E-03
+							40092.80c  1.58100E-03
+							40094.80c  1.60220E-03
+							40096.80c  2.58122E-04
+							50112.80c  1.01413E-06
+							50114.80c  6.90027E-07
+							50115.80c  3.55468E-07
+							50116.80c  1.52015E-05
+							50117.80c  8.02940E-06
+							50118.80c  2.53219E-05
+							50119.80c  8.98080E-06
+							50120.80c  3.40622E-05
+							50122.80c  4.84064E-06
+							50124.80c  6.05342E-06
+							72174.80c  7.67291E-10
+							72176.80c  2.52247E-08
+							72177.80c  8.91976E-08
+							72178.80c  1.30823E-07
+							72179.80c  6.53156E-08
+							72180.80c  1.68229E-07
+		doppler         = F
+	END_MAT_15
+
+	MAT_16 : bottom reflector 2
+		mat_name    	= bot_ref2
+		density_gpcc	= 7.64741E-02
+		n_iso			= 19
+		isotopes		=  	 1001.80c  3.97095E-02
+							 5010.80c  7.04937E-06
+							 5011.80c  2.83746E-05
+							 8016.80c  1.99079E-02
+							24050.80c  1.49443E-04
+							24052.80c  2.88187E-03
+							24053.80c  3.26779E-04
+							24054.80c  8.13425E-05
+							25055.80c  3.42644E-04
+							26054.80c  6.71841E-04
+							26056.80c  1.05464E-02
+							26057.80c  2.43563E-04
+							26058.80c  3.24138E-05
+							27059.80c  2.19260E-05
+							28058.80c  1.03684E-03
+							28060.80c  3.99390E-04
+							28061.80c  1.73612E-05
+							28062.80c  5.53553E-05
+							28064.80c  1.40973E-05
+		doppler         = F
+	END_MAT_16
+
+	MAT_17 : bottom reflector 3
+		mat_name    	= bot_ref3
+		density_gpcc	= 7.66024E-02
+		n_iso			= 19
+		isotopes	 	=  	 1001.80c  3.89123E-02
+							 5010.80c  6.90786E-06
+							 5011.80c  2.78050E-05
+							 8016.80c  1.95082E-02
+							24050.80c  1.61222E-04
+							24052.80c  3.10901E-03
+							24053.80c  3.52535E-04
+							24054.80c  8.77537E-05
+							25055.80c  3.69650E-04
+							26054.80c  7.24794E-04
+							26056.80c  1.13777E-02
+							26057.80c  2.62761E-04
+							26058.80c  3.49686E-05
+							27059.80c  2.36542E-05
+							28058.80c  1.11857E-03
+							28060.80c  4.30869E-04
+							28061.80c  1.87296E-05
+							28062.80c  5.97182E-05
+							28064.80c  1.52085E-05
+		doppler         = F
+	END_MAT_17
+
+	MAT_18 : burnable absorber (gadolinia)
+		mat_name    	= gadolinia1
+		density_gpcc	= -10.56
+        fissionable     = T
+		n_iso			= 10
+		isotopes	 	= 92235.80c   4.3869971E+20
+						  92238.80c   2.1225324E+22
+   						   8016.80c   4.7536482E+22
+   						  64152.80c   5.8050553E+18
+   						  64154.80c   6.2453349E+19
+   						  64155.80c   4.2125976E+20
+   						  64156.80c   5.7891287E+20
+   						  64157.80c   4.3977916E+20
+   						  64158.80c   6.9360859E+20
+   						  64160.80c   6.0276792E+20
+		doppler         = T
+        mat_type        = fue1
+        temperature     = 563.75
+	END_MAT_18
+
+    MAT_19 : burnable absorber (gadolinia)
+		mat_name    	= gadolinia2
+		density_gpcc	= -10.56
+        fissionable     = T
+		n_iso			= 10
+		isotopes	 	= 92235.80c   4.3869971E+20
+						  92238.80c   2.1225324E+22
+   						   8016.80c   4.7536482E+22
+   						  64152.80c   5.8050553E+18
+   						  64154.80c   6.2453349E+19
+   						  64155.80c   4.2125976E+20
+   						  64156.80c   5.7891287E+20
+   						  64157.80c   4.3977916E+20
+   						  64158.80c   6.9360859E+20
+   						  64160.80c   6.0276792E+20
+		doppler         = T
+        mat_type        = fue2
+        temperature     = 563.75
+	END_MAT_19
+
+    MAT_20 : burnable absorber (gadolinia)
+		mat_name    	= gadolinia3
+		density_gpcc	= -10.56
+        fissionable     = T
+		n_iso			= 10
+		isotopes	 	= 92235.80c   4.3869971E+20
+						  92238.80c   2.1225324E+22
+   						   8016.80c   4.7536482E+22
+   						  64152.80c   5.8050553E+18
+   						  64154.80c   6.2453349E+19
+   						  64155.80c   4.2125976E+20
+   						  64156.80c   5.7891287E+20
+   						  64157.80c   4.3977916E+20
+   						  64158.80c   6.9360859E+20
+   						  64160.80c   6.0276792E+20
+		doppler         = T
+        mat_type        = fue3
+        temperature     = 563.75
+	END_MAT_20
+
+    MAT_21 : burnable absorber (gadolinia)
+		mat_name    	= gadolinia4
+		density_gpcc	= -10.56
+        fissionable     = T
+		n_iso			= 10
+		isotopes	 	= 92235.80c   4.3869971E+20
+						  92238.80c   2.1225324E+22
+   						   8016.80c   4.7536482E+22
+   						  64152.80c   5.8050553E+18
+   						  64154.80c   6.2453349E+19
+   						  64155.80c   4.2125976E+20
+   						  64156.80c   5.7891287E+20
+   						  64157.80c   4.3977916E+20
+   						  64158.80c   6.9360859E+20
+   						  64160.80c   6.0276792E+20
+		doppler         = T
+        mat_type        = fue4
+        temperature     = 563.75
+	END_MAT_21
+
+	MAT_22 : coolant
+		mat_name		= coolant
+		density_gpcc	= -0.66114
+		n_iso			= 2
+		isotopes 		=  1001.80c  4.42450E+22
+ 						   8016.80c  2.21225E+22
+		doppler         = T
+		mat_type		= cool
+		temperature		= 563.75
+	END_MAT_22 
+
+
+ENDD
