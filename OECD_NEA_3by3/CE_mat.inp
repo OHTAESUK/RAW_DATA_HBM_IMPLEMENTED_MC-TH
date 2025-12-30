@@ -1,0 +1,360 @@
+ CARD D : CE_MAT_CARD
+ MAT_1  : UO2_42_1 
+     mat_name         = U421
+     density_gpcc     = -10.24
+     fissionable      = T
+     n_iso            = 3
+     isotopes         = 92235.80c	9.71492E-4
+						92238.80c	2.18794E-02
+						 8016.80c	4.57018E-02
+    mat_type = fue1
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : UO2_42_2 
+     mat_name         = U422
+     density_gpcc     = -10.24
+     fissionable      = T
+     n_iso            = 3
+     isotopes         = 92235.80c	9.71492E-4
+						92238.80c	2.18794E-02
+						 8016.80c	4.57018E-02
+    mat_type = fue2
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : UO2_42_3 
+     mat_name         = U423
+     density_gpcc     = -10.24
+     fissionable      = T
+     n_iso            = 3
+     isotopes         = 92235.80c	9.71492E-4
+						92238.80c	2.18794E-02
+						 8016.80c	4.57018E-02
+    mat_type = fue3
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : UO2_42_4 
+     mat_name         = U424
+     density_gpcc     = -10.24
+     fissionable      = T
+     n_iso            = 3
+     isotopes         = 92235.80c	9.71492E-4
+						92238.80c	2.18794E-02
+						 8016.80c	4.57018E-02
+    mat_type = fue4
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+ MAT_1  : MOX_25_1
+     mat_name         = M251
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.59786E-07
+						92235.80c  4.57823E-05
+                        92236.80c  2.27940E-07
+						92238.80c  2.25561E-02
+                        94239.80c  5.75597E-04
+						94240.80c  3.61308E-05
+						94241.80c  2.43944E-06
+						94242.80c  6.07317E-07
+						 8016.80c  4.64347E-02
+    mat_type = fue1
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_25_2
+     mat_name         = M252
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.59786E-07
+						92235.80c  4.57823E-05
+                        92236.80c  2.27940E-07
+						92238.80c  2.25561E-02
+                        94239.80c  5.75597E-04
+						94240.80c  3.61308E-05
+						94241.80c  2.43944E-06
+						94242.80c  6.07317E-07
+						 8016.80c  4.64347E-02
+    mat_type = fue2
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_25_3
+     mat_name         = M253
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.59786E-07
+						92235.80c  4.57823E-05
+                        92236.80c  2.27940E-07
+						92238.80c  2.25561E-02
+                        94239.80c  5.75597E-04
+						94240.80c  3.61308E-05
+						94241.80c  2.43944E-06
+						94242.80c  6.07317E-07
+						 8016.80c  4.64347E-02
+    mat_type = fue3
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_25_4
+     mat_name         = M254
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.59786E-07
+						92235.80c  4.57823E-05
+                        92236.80c  2.27940E-07
+						92238.80c  2.25561E-02
+                        94239.80c  5.75597E-04
+						94240.80c  3.61308E-05
+						94241.80c  2.43944E-06
+						94242.80c  6.07317E-07
+						 8016.80c  4.64347E-02
+    mat_type = fue4
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+ MAT_1  : MOX_30_1
+     mat_name         = M301
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.57274E-07
+						92235.80c  4.55322E-05
+                        92236.80c  2.26695E-07
+						92238.80c  2.24329E-02
+                        94239.80c  6.09718E-04
+						94240.80c  4.33571E-05
+						94241.80c  2.92734E-06
+						94242.80c  7.28782E-07
+						 8016.80c  4.64337E-02
+    mat_type = fue1
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_30_2
+     mat_name         = M302
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.57274E-07
+						92235.80c  4.55322E-05
+                        92236.80c  2.26695E-07
+						92238.80c  2.24329E-02
+                        94239.80c  6.09718E-04
+						94240.80c  4.33571E-05
+						94241.80c  2.92734E-06
+						94242.80c  7.28782E-07
+						 8016.80c  4.64337E-02
+    mat_type = fue2
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_30_3
+     mat_name         = M303
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.57274E-07
+						92235.80c  4.55322E-05
+                        92236.80c  2.26695E-07
+						92238.80c  2.24329E-02
+                        94239.80c  6.09718E-04
+						94240.80c  4.33571E-05
+						94241.80c  2.92734E-06
+						94242.80c  7.28782E-07
+						 8016.80c  4.64337E-02
+    mat_type = fue3
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_30_4
+     mat_name         = M304
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.57274E-07
+						92235.80c  4.55322E-05
+                        92236.80c  2.26695E-07
+						92238.80c  2.24329E-02
+                        94239.80c  6.09718E-04
+						94240.80c  4.33571E-05
+						94241.80c  2.92734E-06
+						94242.80c  7.28782E-07
+						 8016.80c  4.64337E-02
+    mat_type = fue4
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+ 
+ MAT_1  : MOX_50_1
+     mat_name         = M501
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.47229E-07
+						92235.80c  4.45320E-05 
+                        92236.80c  2.21715E-07
+						92238.80c  2.19401E-02
+                        94239.80c  1.15121E-03
+						94240.80c  7.22627E-05
+						94241.80c  4.87895E-06
+						94242.80c  1.21465E-06
+						 8016.80c  4.64298E-02
+    mat_type = fue1
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_50_2
+     mat_name         = M502
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.47229E-07
+						92235.80c  4.45320E-05 
+                        92236.80c  2.21715E-07
+						92238.80c  2.19401E-02
+                        94239.80c  1.15121E-03
+						94240.80c  7.22627E-05
+						94241.80c  4.87895E-06
+						94242.80c  1.21465E-06
+						 8016.80c  4.64298E-02
+    mat_type = fue2
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_50_3
+     mat_name         = M503
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.47229E-07
+						92235.80c  4.45320E-05 
+                        92236.80c  2.21715E-07
+						92238.80c  2.19401E-02
+                        94239.80c  1.15121E-03
+						94240.80c  7.22627E-05
+						94241.80c  4.87895E-06
+						94242.80c  1.21465E-06
+						 8016.80c  4.64298E-02
+    mat_type = fue3
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+  MAT_1  : MOX_50_4
+     mat_name         = M504
+     density_gpcc     = -10.41
+     fissionable      = T
+     n_iso            = 9
+     isotopes         = 92234.80c  4.47229E-07
+						92235.80c  4.45320E-05 
+                        92236.80c  2.21715E-07
+						92238.80c  2.19401E-02
+                        94239.80c  1.15121E-03
+						94240.80c  7.22627E-05
+						94241.80c  4.87895E-06
+						94242.80c  1.21465E-06
+						 8016.80c  4.64298E-02
+    mat_type = fue4
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+
+ MAT_1  : gap 
+     mat_name         = gap
+     density_gpcc     = -0.001
+     n_iso            = 1
+     isotopes         = 8016.80c 1
+ END_MAT_1
+ 
+ MAT_1 : WABA
+    mat_name = WABA
+    density_gpcc = -3.5635
+    n_iso    = 5
+    isotopes = 13027.80c	3.78899E-02
+				8016.80c	5.68668E-02
+				5010.80c	3.09203E-03
+				5011.80c	1.24454E-02
+				6000.80c	3.88748E-03
+
+ END_MAT_1
+
+ MAT_1  : clad 
+     mat_name         = clad
+     density_gpcc     = -6.504
+     n_iso            = 25
+     isotopes         = 40090.80c	0.5058845
+						40091.80c	0.1100176
+						40092.80c	0.1679733
+						40094.80c	0.1709202
+						40096.80c	0.0275044
+						50112.80c	0.0001455
+						50114.80c	0.0000975
+						50115.80c	0.0000495
+						50116.80c	0.002181
+						50117.80c	0.001152
+						50118.80c	0.0036345
+						50119.80c	0.0012885
+						50120.80c	0.0048885
+						50122.80c	0.0006945
+						50124.80c	0.0008685
+						26054.80c	0.0000696
+						26056.80c	0.00110064
+						26057.80c	0.0000264
+						26058.80c	0.00000336
+						24050.80c	0.00004345
+						24052.80c	0.00083789
+						24053.80c	0.00009501
+						24054.80c	0.00002365
+						 7014.80c	0.00049817
+						 7015.80c	0.00000183
+
+    mat_type = clad
+    doppler = T
+ END_MAT_1
+ 
+ MAT_1  : water 
+     mat_name         = water
+     density_gpcc     = 7.14660E+22
+     n_iso            = 4
+     isotopes         = 5010.80c	9.470652E-6
+						5011.80c	3.812076E-5
+						1001.80c	4.76055E-02
+						8016.80c	2.38129E-02
+    doppler  = T
+    temperature = 580.0
+ END_MAT_1
+
+ MAT_1  : coolant 
+     mat_name         = coolant
+     density_gpcc     = 7.14660E+22
+     n_iso            = 4
+     isotopes         = 5010.80c	9.470652E-6
+						5011.80c	3.812076E-5
+						1001.80c	4.76055E-02
+						8016.80c	2.38129E-02
+    mat_type = cool
+    doppler = T
+    temperature = 580.0
+ END_MAT_1
+ 
+ ENDD

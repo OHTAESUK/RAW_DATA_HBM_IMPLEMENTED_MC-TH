@@ -1,0 +1,32 @@
+CARD A : Control_Card 
+	Energy_mode   			= 1
+	Nominal_Power			= 166.24  % MWth
+	nugrid					= 8192
+
+    history_per_cycle       = 1.0E6
+    Number_inactive         = 25
+    Number_active           = 200
+	
+    coupling                = F
+	BASE_COOL_DENS          = 661.14
+
+	% --- TALLY RELATED
+	ENTROPY					= -32.13 -32.13 0.00 32.13 32.13 365.76 51 51 20
+	MESH_GRID               = -32.13 -32.13 0.00 32.13 32.13 365.76 51 51 20
+	TALLY_MESH              = T
+
+	% --- pCMFD ACCELERATION
+	FMFD 					= T
+	ONLY_ACCELERATE         = T
+	NUMBER_CMFD_SKIP        = 1
+	FINE_TO_COARSE   		= 17  2
+	
+	% --- HISTORY BATCH METHOD
+	DO_HBM                  = F 50
+	Number_cycle_HBM        = 25
+	
+	lib_path = '/home/codes/serpent_data/sss_endf71.xsdata'
+
+ENDA
+
+

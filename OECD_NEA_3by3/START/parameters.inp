@@ -1,0 +1,16 @@
+$job
+nz = 20 # axial segments
+pitch = 1.260D-02 # Fuel rod pitch (meters)
+rod_od = 0.9166D-02 # Fuel rod outer dia (meters)
+n_channels = 2704 #number of channels in model
+n_rods = 2601 #number of fuel rods in model
+neighbors = 4 # 4 in case of rectangular and 6 in case of hexagonal lattice
+inc_angle_deg = 0.0D+00 #inclination of geometry with vertical
+heated_len = 3.6576D+00 # in meters
+clad_conduc = 15.22D+00 #cladding conductivity value W/m/K
+clad_thick = 0.573D-03 #cladding thickness value in meters
+Start_time = 0.0D+00 #Start time of simulation
+End_time = 1.0D+00 #End time of simulation
+DT_TH = 1.0D+00 #Time Step for simulation
+h_gap = 1.0D+4 # Heat Transfer Coeff. of Gap; W/mm/K
+$
